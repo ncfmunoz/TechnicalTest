@@ -1,0 +1,9 @@
+﻿{
+  "System": {
+    "Name": "TechnicalTestEnv",
+    "Url": "https://ensekautomationcandidatetest.azurewebsites.net/",
+    "Headless" :  true,
+    "ApiUrl": "https://ensekapicandidatetest.azurewebsites.net/",
+    "Token": "Bearer eyJ0eXAiOiJ"
+  }
+}
